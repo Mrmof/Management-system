@@ -21,7 +21,7 @@
                     <p id="validate" style="color: red;"></p>
                 </div>
                 <div class="mgtFormDivs">
-                    <input type="submit" value="Sign in" name="signin">
+                    <input type="submit" value="Sign In" name="signin">
                 </div>
             </form>
         </div>
